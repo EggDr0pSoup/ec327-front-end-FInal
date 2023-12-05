@@ -1,4 +1,4 @@
-<template>
+<!--<template>
   <el-table-v2
     :columns="columns"
     :data="data"
@@ -39,3 +39,4 @@ const generateData = (
 const columns = generateColumns(7);
 const data = generateData(columns, 24);
 </script>
+-->
